@@ -1,0 +1,151 @@
+{
+    "planet": [
+      {
+        "planet_id": 1,
+        "planet_name": "Merkurius",
+        "planet_alias_name": "Utarid",
+        "gravitasi_permukaan": 3.7,
+        "massa_jenis_rata2": 5.427,
+        "kecepatan_lepas": 4.25,
+        "created_date": "20220801",
+        "created_by": "admin"
+      },
+      {
+        "planet_id": 2,
+        "planet_name": "Venus",
+        "planet_alias_name": "Zohrah",
+        "gravitasi_permukaan": 8.87,
+        "massa_jenis_rata2": 5.243,
+        "kecepatan_lepas": 10.36,
+        "created_date": "20220801",
+        "created_by": "admin"
+      },
+      {
+        "planet_id": 3,
+        "planet_name": "Bumi",
+        "planet_alias_name": "Tellus",
+        "gravitasi_permukaan": 9.7,
+        "massa_jenis_rata2": 5.515,
+        "kecepatan_lepas": 11.186,
+        "created_date": "20220801",
+        "created_by": "admin"
+      },
+      {
+        "planet_id": 4,
+        "planet_name": "Mars",
+        "planet_alias_name": "Marikh",
+        "gravitasi_permukaan": 3.69,
+        "massa_jenis_rata2": 3.934,
+        "kecepatan_lepas": 5.027,
+        "created_date": "20220801",
+        "created_by": "admin"
+      },
+      {
+        "planet_id": 5,
+        "planet_name": "Jupiter",
+        "planet_alias_name": "Musytari",
+        "gravitasi_permukaan": 24.79,
+        "massa_jenis_rata2": 1.326,
+        "kecepatan_lepas": 59.5,
+        "created_date": "20220801",
+        "created_by": "admin"
+      },
+      {
+        "planet_id": 6,
+        "planet_name": "Saturnus",
+        "planet_alias_name": "Zohal",
+        "gravitasi_permukaan": 1044,
+        "massa_jenis_rata2": 0.687,
+        "kecepatan_lepas": 355,
+        "created_date": "20220801",
+        "created_by": "admin"
+      },
+      {
+        "planet_id": 7,
+        "planet_name": "Uranus",
+        "planet_alias_name": null,
+        "gravitasi_permukaan": 8.69,
+        "massa_jenis_rata2": 1.27,
+        "kecepatan_lepas": 21.3,
+        "created_date": "20220801",
+        "created_by": "admin"
+      },
+      {
+        "planet_id": 8,
+        "planet_name": "Neptunus",
+        "planet_alias_name": null,
+        "gravitasi_permukaan": 11.15,
+        "massa_jenis_rata2": 1.638,
+        "kecepatan_lepas": 23.5,
+        "created_date": "20220801",
+        "created_by": "admin"
+      },
+      {
+        "planet_id": 9,
+        "planet_name": "Pluto",
+        "planet_alias_name": null,
+        "gravitasi_permukaan": null,
+        "massa_jenis_rata2": 0.06,
+        "kecepatan_lepas": 12288,
+        "created_date": "20220801",
+        "created_by": "admin"
+      }
+    ],
+    "satelit": [
+      {
+        "satelit_id": 1,
+        "satelit_name": "Bulan",
+        "planet_id": 3
+      },
+      {
+        "satelit_id": 2,
+        "satelit_name": "Phobos",
+        "planet_id": 4
+      },
+      {
+        "satelit_id": 3,
+        "satelit_name": "Deimos",
+        "planet_id": 4
+      },
+      {
+        "satelit_id": 4,
+        "satelit_name": "IO",
+        "planet_id": 5
+      },
+      {
+        "satelit_id": 5,
+        "satelit_name": "Europa",
+        "planet_id": 5
+      },
+      {
+        "satelit_id": 6,
+        "satelit_name": "Ganimede",
+        "planet_id": 5
+      },
+      {
+        "satelit_id": 7,
+        "satelit_name": "Kalisto",
+        "planet_id": 5
+      },
+      {
+        "satelit_id": 8,
+        "satelit_name": "Kiviuq",
+        "planet_id": 6
+      },
+      {
+        "satelit_id": 9,
+        "satelit_name": "Ijiraq",
+        "planet_id": 6
+      },
+      {
+        "satelit_id": 10,
+        "satelit_name": "Paaliaq",
+        "planet_id": 6
+      },
+      {
+        "satelit_id": 11,
+        "satelit_name": "Siarnaq",
+        "planet_id": 6
+      }
+    ]
+  }
